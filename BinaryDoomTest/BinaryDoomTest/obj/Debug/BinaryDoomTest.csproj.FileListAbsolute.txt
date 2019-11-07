@@ -1,0 +1,7 @@
+C:\Users\Diaot\Desktop\MathForGames\BinaryDoomTest\BinaryDoomTest\bin\Debug\BinaryDoomTest.exe.config
+C:\Users\Diaot\Desktop\MathForGames\BinaryDoomTest\BinaryDoomTest\bin\Debug\BinaryDoomTest.exe
+C:\Users\Diaot\Desktop\MathForGames\BinaryDoomTest\BinaryDoomTest\bin\Debug\BinaryDoomTest.pdb
+C:\Users\Diaot\Desktop\MathForGames\BinaryDoomTest\BinaryDoomTest\obj\Debug\BinaryDoomTest.csprojAssemblyReference.cache
+C:\Users\Diaot\Desktop\MathForGames\BinaryDoomTest\BinaryDoomTest\obj\Debug\BinaryDoomTest.csproj.CoreCompileInputs.cache
+C:\Users\Diaot\Desktop\MathForGames\BinaryDoomTest\BinaryDoomTest\obj\Debug\BinaryDoomTest.exe
+C:\Users\Diaot\Desktop\MathForGames\BinaryDoomTest\BinaryDoomTest\obj\Debug\BinaryDoomTest.pdb
